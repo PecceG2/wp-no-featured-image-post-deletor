@@ -3,7 +3,7 @@ defined('ABSPATH') or die("Silence is golden");
 /*
 Plugin Name: No Photo Post Deletor
 Description: Elimina automaticamente todos los posts que no contengan foto destacada.
-Version: 0.0.1 - 2948c55
+Version: 0.0.1 - 9330c6c
 Author: PecceG2
 */
 
@@ -15,7 +15,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'no-photo-post-deletor-pg2'
 );
 
-// Event Hooks
+// Event  Hooks
 register_activation_hook(__FILE__, 'onInstallPlugin');
 register_deactivation_hook(__FILE__, 'onUninstallPlugin');
 
