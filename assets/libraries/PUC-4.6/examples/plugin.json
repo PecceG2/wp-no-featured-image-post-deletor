@@ -1,0 +1,17 @@
+{
+	"name": "No Photo Post Deletor",
+	"version": "0.0.1 - 2948c55",
+	"download_url": "https://pecceg2.com/development/wordpress-plugins/no-photo-post-deletor/no-photo-post-deletor.zip",
+
+	"homepage": "https://pecceg2.com/",
+
+	"author": "PecceG2",
+	"author_homepage": "https://pecceg2.com/",
+
+	"sections": {
+		"description": "Elimina automaticamente todos los posts que no contengan foto destacada.",
+		"installation": "",
+		"changelog": "",
+		"custom_section": ""
+	}
+}
