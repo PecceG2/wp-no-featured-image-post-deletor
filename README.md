@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PecceG2/wp-no-featured-image-post-deletor">
-    <img src="https://github.com/PecceG2/wp-no-featured-image-post-deletor/blob/master/wp-no-featured-image-post-deletor/big-icon.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/PecceG2/wp-no-featured-image-post-deletor/master/big-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">WP No Featured Image Post Deletor</h3>

@@ -1,0 +1,75 @@
+# Default #
+* text=auto
+
+# Git #
+.gitattributes text
+.gitignore text
+
+# Java #
+*.java text diff=java
+*.properties text
+*.class binary
+*.jar binary
+*.war binary
+*.ear binary
+
+# PHP
+*.php text
+*.phpt text
+*.phtml text
+*.twig text
+.htaccess text
+.ht text
+*.phar binary
+
+# Windows #
+*.bat text eol=crlf
+*.exe binary
+*.dll binary
+
+# Linux #
+*.sh text eol=lf
+*.so binary
+
+# Web #
+*.htm text diff=html
+*.html text diff=html
+*.xhtml text diff=html
+*.css text diff=css
+*.js text
+*.json text
+*.xml text
+
+# Multimedia #
+*.bmp binary
+*.gif binary
+*.ico binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.svg text
+*.tif binary
+*.tiff binary
+*.eps binary
+*.ai binary
+*.bmp binary
+*.jng binary
+*.jp2 binary
+*.jpx binary
+*.jxr binary
+*.pdf binary
+*.psb binary
+*.psd binary
+*.svg text
+*.svgz binary
+*.wbmp binary
+*.webp binary
+
+# General #
+*.cfg text
+*.csv text
+*.ini text
+*.log text
+*.pdf binary
+*.sql text
+*.txt text
